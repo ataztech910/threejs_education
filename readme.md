@@ -1,5 +1,7 @@
 # Three.js Journey
 
+release number 0.0.1
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
